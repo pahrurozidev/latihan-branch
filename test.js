@@ -1,1 +1,1 @@
-console.log("oke")
+alert("Pahrurozi")
