@@ -1,1 +1,1 @@
-alert("Pahrurozi")
+confirm("Pahrurozi")
